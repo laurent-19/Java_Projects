@@ -1,0 +1,13 @@
+FireEvent{smoke=true}Call owner!FireEvent{smoke=true}Call owner!TemperatureEvent{value=1}
+Starting to heat the house!FireEvent{smoke=true}Call owner!FireEvent{smoke=true}Call owner!FireEvent{smoke=true}Call owner!TemperatureEvent{value=2}
+Starting to heat the house!FireEvent{smoke=true}Call owner!FireEvent{smoke=true}Call owner!FireEvent{smoke=true}Call owner!TemperatureEvent{value=13}
+Starting to heat the house!FireEvent{smoke=true}Call owner!TemperatureEvent{value=8}
+Starting to heat the house!TemperatureEvent{value=5}
+Starting to heat the house!FireEvent{smoke=true}Call owner!FireEvent{smoke=true}Call owner!TemperatureEvent{value=3}
+Starting to heat the house!TemperatureEvent{value=9}
+Starting to heat the house!TemperatureEvent{value=35}
+Starting cooling the house!TemperatureEvent{value=12}
+Starting to heat the house!FireEvent{smoke=true}Call owner!FireEvent{smoke=true}Call owner!TemperatureEvent{value=10}
+Starting to heat the house!FireEvent{smoke=true}Call owner!FireEvent{smoke=true}Call owner!TemperatureEvent{value=15}
+Starting to heat the house!FireEvent{smoke=true}Call owner!TemperatureEvent{value=8}
+Starting to heat the house!

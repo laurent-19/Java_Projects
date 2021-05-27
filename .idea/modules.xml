@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java Projects.iml" filepath="$PROJECT_DIR$/.idea/Java Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chronometer/chronometer.iml" filepath="$PROJECT_DIR$/chronometer/chronometer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/file_reader/file_reader.iml" filepath="$PROJECT_DIR$/file_reader/file_reader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/home_automation/home_automation.iml" filepath="$PROJECT_DIR$/home_automation/home_automation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/railway_traffic_simulator/railway_traffic_simulator.iml" filepath="$PROJECT_DIR$/railway_traffic_simulator/railway_traffic_simulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stock_manager/stock_manager.iml" filepath="$PROJECT_DIR$/stock_manager/stock_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/temp_monitor/temp_monitor.iml" filepath="$PROJECT_DIR$/temp_monitor/temp_monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tic_tac_toe/tic_tac_toe.iml" filepath="$PROJECT_DIR$/tic_tac_toe/tic_tac_toe.iml" />
+    </modules>
+  </component>
+</project>

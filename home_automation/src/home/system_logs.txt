@@ -1,0 +1,7 @@
+FireEvent{smoke=true}Call owner!TemperatureEvent{value=11}
+Starting to heat the house!TemperatureEvent{value=13}
+Starting to heat the house!FireEvent{smoke=true}Call owner!TemperatureEvent{value=4}
+Starting to heat the house!TemperatureEvent{value=34}
+Starting cooling the house!FireEvent{smoke=true}Call owner!TemperatureEvent{value=34}
+Starting cooling the house!FireEvent{smoke=true}Call owner!TemperatureEvent{value=34}
+Starting cooling the house!
